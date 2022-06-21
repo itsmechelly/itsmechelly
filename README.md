@@ -1,6 +1,6 @@
 ### Hi There 😄
 
-And welcome to my github portfolio...
+And welcome to my github portfolio...<br>
 This README.md file will be updated soon...
 
 Till next time,
