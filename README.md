@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi There 😄
+
+And welcome to my github portfolio...
+This README.md file will be updated soon...
+
+Till next time,
+bye bye,
+Chelly ✌🏽👀
 
 <!--
 **itsmechelly/itsmechelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
