@@ -4,7 +4,7 @@ And welcome to my github portfolio...<br>
 This README.md file will be updated soon...
 <br><br>
 Till next time,😉<br>
-bye bye,<br>
+Bye Bye,<br>
 Chelly ✌🏽👀
 
 
