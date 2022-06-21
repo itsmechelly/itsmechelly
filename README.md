@@ -6,7 +6,7 @@ This README.md file will be updated soon...
 Till next time,😉<br>
 bye bye,<br>
 Chelly ✌🏽👀
-![image](https://user-images.githubusercontent.com/60425986/174820147-e6e849a0-ddce-4e2f-8344-d81ef556fdea.png)
+
 
 <!--
 **itsmechelly/itsmechelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
