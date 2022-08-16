@@ -3,6 +3,11 @@
 And welcome to my github portfolio...<br>
 This README.md file will be updated soon...
 <br><br>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+<br><br>
+
 Till next time,😉<br>
 Bye Bye,<br>
 Chelly ✌🏽👀
