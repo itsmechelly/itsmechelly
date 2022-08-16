@@ -10,7 +10,7 @@ This README.md file will be updated soon...
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
-  <h1> C  O  M  I  N  G         S  O  O  N </h1>
+  <h1> C  O  M  I  N  G     ___    S  O  O  N </h1>
 <!-- <img src="https://i.imgur.com/x1KbuCq.gif" width="500"> -->
   
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
