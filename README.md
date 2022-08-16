@@ -1,21 +1,11 @@
 <h2> Hi There,<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><br>I'm Chelly Izraelov!🌸</h2>
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 Welcome to my github portfolio...<br>
 This README.md file will be updated soon...
 <br><br>
-
-
-<br><br>
-
-Till next time,😉<br>
-Bye Bye,<br>
-Chelly ✌🏽👀
-
 
 
 
@@ -28,11 +18,25 @@ Chelly ✌🏽👀
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 <h4 align="right">
 
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 
 
+<br><br>
+Till next time,😉<br>
+Bye Bye,<br>
+Chelly ✌🏽👀
+  
 
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 
-
+  
+  
+  
+  
+  
+  
 <!--
 **itsmechelly/itsmechelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
