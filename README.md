@@ -32,7 +32,7 @@ Chelly ✌🏽👀
 
   
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="500"> 
 
   
   
