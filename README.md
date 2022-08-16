@@ -14,10 +14,10 @@ This README.md file will be updated soon...
 
   <h1> W I L L - B E - U P D A T E D - S O O N </h1>
   <br><br>
+  <br><br>
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-
+<!-- <p align="center"> -->
 <!-- <img src="https://i.imgur.com/x1KbuCq.gif" width="500"> -->
   
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
