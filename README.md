@@ -1,4 +1,5 @@
-### Hi There 🌸
+<h2> Hi There,🌸<br>I'm Chelly Izraelov, <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 And welcome to my github portfolio...<br>
 This README.md file will be updated soon...
