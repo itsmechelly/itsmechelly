@@ -21,13 +21,14 @@ This README.md file will be updated soon...
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 
-
+  
+<p>
 <br><br>
 Till next time,😉<br>
 Bye Bye,<br>
 Chelly ✌🏽👀
+</p>
   
-
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 
