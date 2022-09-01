@@ -36,7 +36,7 @@ My Motto: <br/>
 ― Astrid Lindgren, Pippi Longstocking
 <br/><br/>
 My poftfolio: <br/>
-<a href="https://my-portfolio-site-frontend.herokuapp.com/" target="_blank">What to see my portfolio?  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"width="30"></br><br/>
+<a href="https://my-portfolio-site-frontend.herokuapp.com/" target="_blank">Want to see my portfolio?  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"width="30"></br><br/>
 Fun Fact: 
 <br/>
 I read a book a week  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br/><br/>
