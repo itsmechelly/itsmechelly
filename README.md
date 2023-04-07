@@ -21,7 +21,6 @@ Looking for a company that feels like home yet has ambitious environment,<br> wh
 execute my development skills and problem-solving capabilities
 <br/>
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780155240/7SZuYu_oq.gif?auto=format,compress&gif-q=60&format=webm">
 
 <!--STAR-->
 <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
@@ -51,7 +50,6 @@ I read a book a week  </a><img src="https://media.giphy.com/media/fYSnHlufseco8F
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
-
 
 
 <br><br>
