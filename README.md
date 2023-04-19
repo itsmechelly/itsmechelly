@@ -5,7 +5,7 @@
   Nice to meet you! 🙂
 </h1>
 
-<h4>
+<p>
 3 years ago, I fell in love with writing code.<br/>
 At first, as in all things I like to do, it was very challenging, it was a new and fascinating world with endless knowledge.<br/>
 Then I graduate from college course with a GPA of 97. At the same time, I started giving short lectures about various tech-topics, and very quickly found a job as a Backend Software Developer.<br/>
@@ -28,7 +28,7 @@ And now - after I've returned to stable health, stronger than ever, I'm ready to
 
 Thank for reading,<br/>
 Chelly<br/>
-</h4>
+</p>
 
 
 <hr>
