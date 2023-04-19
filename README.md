@@ -1,25 +1,38 @@
-<h2>
-  Hi there,
+<h1 style="font-size:300%;">  Hi there,
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
   <br>
   My name is Chelly Izraelov,
   Nice to meet you! 🙂
-</h2>
+</h1>
+
+<h3>
+3 years ago, I fell in love with writing code.<br/>
+At first, as in all things I like to do, it was very challenging, it was a new and fascinating world with endless knowledge.<br/>
+Then I graduate from college course with a GPA of 97. At the same time, I started giving short lectures about various tech-topics, and very quickly found a job as a Backend Software Developer.<br/>
+I really loved this position; it was fun and challenging at the same time.<br/>
+But then, unfortunately, I had to leave work due to a temporary medical condition that did not allow me to work.<br/>
+And now - after I've returned to stable health, stronger than ever, I'm ready to get back on track and I'm coming with endless passion!<br/><br/>
+
+  
+I am looking for a company that feels like home yet has an ambitious environment, <br/>where I can contribute and execute my development skills and problem-solving capabilities.<br/><br/>
+I am a professional and passionate Software Developer, proficient with Java language and Spring Framework.<br/><br/>
+Have the interest and the ability to learn other coding languages and technologies as needed.<br/><br/>
+Consider myself to be a very determined and self-motivated individual with an outstanding ‘Can-Do’ Attitude.<br/><br/>
+Excellent communication skills, a team-player, and always seeking to assist in my environment.<br/><br/>
+  
+
+I would be very glad to hear from you soon.<br/>
+Thank you in advance,<br/>
+Chelly Izraelov<br/>
+</h3>
 
 
 
-<!--
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about myself...
--->
 
 
+<!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about myself... -->
 
-Professional and passionate Software Developer, proficient with Java language and Spring Framework.<br><br>
-Excellent communication skills, a team-player, always seeking to assist my environment.<br><br>
-Consider myself as a very determined and self-motivated individual with an outstanding ‘Can-Do’ Attitude.<br><br>
-Looking for a company that feels like home yet has ambitious environment,<br> where I can contribute and
-execute my development skills and problem-solving capabilities
-<br/>
+
 
 
 <!--STAR-->
